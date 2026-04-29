@@ -1,0 +1,38 @@
+=== 5G NR Simulation Final Report ===
+Total Simulation Time: 20s
+--------------------------------------
+Flow ID: 1 (13.0.0.5 -> 13.0.0.6)
+  TX Packets: 10
+  RX Packets: 10
+  Throughput: 9407.67 Mbps
+  Mean Delay: 7.315e-07s
+  Lost Packets: 0
+--------------------------------------
+Flow ID: 2 (14.0.0.6 -> 14.0.0.5)
+  TX Packets: 10
+  RX Packets: 10
+  Throughput: 9407.67 Mbps
+  Mean Delay: 1.33e-07s
+  Lost Packets: 0
+--------------------------------------
+Flow ID: 3 (14.0.0.5 -> 14.0.0.6)
+  TX Packets: 10
+  RX Packets: 10
+  Throughput: 8470.66 Mbps
+  Mean Delay: 1.18e-07s
+  Lost Packets: 0
+--------------------------------------
+Flow ID: 4 (13.0.0.6 -> 13.0.0.5)
+  TX Packets: 10
+  RX Packets: 10
+  Throughput: 8470.66 Mbps
+  Mean Delay: 1.18e-07s
+  Lost Packets: 0
+--------------------------------------
+Flow ID: 5 (10.0.0.5 -> 10.0.0.6)
+  TX Packets: 9204
+  RX Packets: 9204
+  Throughput: 4.38068 Mbps
+  Mean Delay: 1.73906e-06s
+  Lost Packets: 0
+--------------------------------------
